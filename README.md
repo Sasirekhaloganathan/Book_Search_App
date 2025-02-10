@@ -1,4 +1,3 @@
-Hosted here: https://nicolasbooks.onrender.com/
+Hosted here: https://googlebookssearch.netlify.app/
 
-# bookDemo
-Demo project for react web app using Google Books API  
+
